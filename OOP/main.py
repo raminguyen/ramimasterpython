@@ -1,3 +1,5 @@
+""" Source: https://github.com/jimdevops19/PythonOOP/blob/main/01%20-%20Introduction%20to%20OOP/main.py"""
+
 class Item:
     def __init__(self, name, price, quantity=0):
         self.name = name
